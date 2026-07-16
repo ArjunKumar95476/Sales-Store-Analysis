@@ -111,10 +111,3 @@ Measured profitability efficiency across customer segments.
 - Sales-to-Profit ratio was calculated to evaluate profitability.
 
 ---
-
----
-
-## 📷 Project Preview
-
-(Add screenshots inside the Images folder)
-
